@@ -15,6 +15,7 @@ Welcome to my coding playground. This is a collection of notebooks, mostly writt
 * **pattern_chaoticism:** an exploration of cellular automata theory. Algorithms that apply simple rules to generate new data points based their neighbors and produces visualizations of the resulting complex patterns. Some further reading on [cellular automata](https://natureofcode.com/cellular-automata/).
 *  **SimpleKmeans:** this one is written in R and is a walkthrough of the K-means clustering algorithm with a simple dataset consisting of 10 data points. 
 
-<img width="326" height="752" align="left" alt="one_uniform_neighbor_min_max_v2" src="https://github.com/user-attachments/assets/83d13afa-4197-4459-80fc-a0cb891989ba" /><img width="326" height="752" align="right" alt="rule_57_genomic_background_decay_v1" src="https://github.com/user-attachments/assets/b24522cb-4ef9-450a-a49f-bc608abad256" />
+<img width="326" height="752" align="left" alt="one_uniform_neighbor_min_max_v2" src="https://github.com/user-attachments/assets/83d13afa-4197-4459-80fc-a0cb891989ba" />
+<img width="326" height="752" align="right" alt="rule_57_genomic_background_decay_v1" src="https://github.com/user-attachments/assets/b24522cb-4ef9-450a-a49f-bc608abad256" />
 
 
