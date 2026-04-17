@@ -17,5 +17,5 @@ Welcome to my coding playground. This is a collection of notebooks, mostly writt
 
 <img width="326" height="752" align="left" alt="one_uniform_neighbor_min_max_v2" src="https://github.com/user-attachments/assets/83d13afa-4197-4459-80fc-a0cb891989ba" />
 
-<img width="1445" height="2370" alt="rule_57_genomic_background_decay_v1" src="https://github.com/user-attachments/assets/edec98c4-c28a-4978-a8bf-c06df2159b15" />
+<img width="326" height="752" alt="rule_57_genomic_background_decay_v1" src="https://github.com/user-attachments/assets/edec98c4-c28a-4978-a8bf-c06df2159b15" />
 
