@@ -19,4 +19,4 @@ Welcome to my coding playground. This is a collection of notebooks, mostly writt
 
 <img width="163" height="326" align="center" alt="rule_57_genomic_background_decay_v1" src="https://github.com/user-attachments/assets/edec98c4-c28a-4978-a8bf-c06df2159b15" />
 
-<img width="150" height="150" align="right" alt="one_uniform_neighbor_colorful_genomic_pattern" src="https://github.com/user-attachments/assets/335039f2-e63f-4094-8997-33c9752ac2b1" />
+<img width="150" height="150" align="left" alt="one_uniform_neighbor_colorful_genomic_pattern" src="https://github.com/user-attachments/assets/335039f2-e63f-4094-8997-33c9752ac2b1" />
