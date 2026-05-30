@@ -13,7 +13,8 @@ Welcome to my coding playground. This is a collection of notebooks, mostly writt
  https://github.com/grybkom/NLP_Disaster_Tweets
 * **PythonPracticeSorting:** a collection of sorting algorithms, ***Binary Insertion Sort***, ***Merge Sort***, and ***Quick Sort***, as well as some interesting implementations of these algorithms.
 * **pattern_chaoticism:** an exploration of cellular automata theory. Algorithms that apply simple rules to generate new data points based their neighbors and produces visualizations of the resulting complex patterns. Some further reading on [cellular automata](https://natureofcode.com/cellular-automata/).
-*  **SimpleKmeans:** this one is written in R and is a walkthrough of the K-means clustering algorithm with a simple dataset consisting of 10 data points. 
+*  **SimpleKmeans:** this one is written in R and is a walkthrough of the K-means clustering algorithm with a simple dataset consisting of 10 data points.
+*  **LogReg:** implementation of the logistic regression by hand in python. 
 
 <img width="163" height="326" align="left" alt="one_uniform_neighbor_min_max_v2" src="https://github.com/user-attachments/assets/83d13afa-4197-4459-80fc-a0cb891989ba" />
 
